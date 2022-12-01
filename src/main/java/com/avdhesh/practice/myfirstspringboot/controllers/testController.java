@@ -8,6 +8,6 @@ public class testController {
     
     @RequestMapping("/home")
     public String function(){
-        return "kjshda askdjabhs asda afwr wert etyr yyd.";
+        return "This is the first introductory spring boot application to get familier with its architectural.";
     }
 }
